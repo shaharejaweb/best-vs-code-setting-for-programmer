@@ -1,9 +1,5 @@
-/*================================
- VS Code Settings
-================================*/
-
 {
-  "editor.fontSize": 20,
+  "editor.fontSize": 16,
   "editor.tabSize": 2,
   "editor.wordWrap": "on",
   "prettier.proseWrap": "always",
@@ -27,22 +23,24 @@
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "workbench.colorCustomizations": {
-    "titleBar.activeBackground": "#474787",
-    "editorGroupHeader.tabsBackground": "#2c2c54",
-    "activityBar.background": "#2c2c54",
-    "sideBar.background": "#141422",
+    "titleBar.activeBackground": "#141422",
+    "editorGroupHeader.tabsBackground": "#0D1117",
+    "activityBar.background": "#141422",
+    "sideBar.background": "#0b0522",
     "minimap.background": "#141422",
-    "tab.activeBackground": "#706fd3",
-    "tab.inactiveBackground": "#191846",
+    "tab.activeBackground": "#0B0522",
+    "tab.inactiveBackground": "#0D1117",
+    "tab.hoverBackground": "#0B0522",
     "terminal.border": "#2c2c54",
-    "terminal.background": "#2c2c54",
-    "statusBar.background": "#474787",
+    "terminal.background": "#141422",
+    "statusBar.background": "#0B0522",
     "scrollbarSlider.background": "#474787",
-    "scrollbarSlider.hoverBackground": "#706fd3",
+    "scrollbarSlider.hoverBackground": "#706fd3"
   },
   "editor.tokenColorCustomizations": {
     "comments": "#d4922f"
-  }
+  },
+  "php.validate.executablePath": ""
 }
 
 
