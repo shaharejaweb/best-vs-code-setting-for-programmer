@@ -5,11 +5,10 @@
   "prettier.proseWrap": "always",
   "editor.formatOnSave": true,
   "liveServer.settings.CustomBrowser": "chrome:PrivateMode",
-  "window.zoomLevel": 1,
   "files.autoSave": "afterDelay",
   "files.autoSaveDelay": 10,
   "liveServer.settings.donotShowInfoMsg": true,
-  "workbench.colorTheme": "Andromeda",
+  "workbench.colorTheme": "Andromeda Colorizer",
   "liveServer.settings.donotVerifyTags": true,
   "liveSassCompile.settings.formats": [
     {
@@ -32,7 +31,7 @@
     "tab.inactiveBackground": "#0D1117",
     "tab.hoverBackground": "#0B0522",
     "terminal.border": "#2c2c54",
-    "terminal.background": "#141422",
+    "terminal.background": "#02050e",
     "statusBar.background": "#0B0522",
     "scrollbarSlider.background": "#474787",
     "scrollbarSlider.hoverBackground": "#706fd3"
