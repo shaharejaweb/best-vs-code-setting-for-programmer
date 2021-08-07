@@ -1,0 +1,30 @@
+/*================================
+ VS Code Extention
+================================*/
+01. Auto Close Tag
+02. Auto Rename Tag
+03. Bracket Pair Colorizer
+04. Debugger for Chrome
+05. HTML CSS Support
+06. JavaScript (ES6) code snippets
+07. Live Server
+08. Live Sass Compiler
+09. Material Icon Theme
+10. Prettier - Code formatter
+11. WordPress Snippets
+12. PHP Intelephense
+13. IntelliSense for CSS class names in HTML
+
+
+
+
+
+/*================================
+ VS Code Themes
+================================*/
+01. Andromeda
+02. Dracula Official
+03. Night Owl
+04. Shades of Purple
+05. SynthWave '84
+06. Ayu (Theme)
