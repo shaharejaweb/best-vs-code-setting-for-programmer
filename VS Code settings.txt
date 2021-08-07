@@ -60,7 +60,7 @@ https://code.visualstudio.com/api/references/theme-color
 06. IntelliSense for CSS class names in HTML
 07. HTML CSS Support
 08. Material Icon Theme
-19. Prettier - Code formatter
+09. Prettier - Code formatter
 10. Live Server
 11. Live Sass Compiler
 12. Material Icon Theme
