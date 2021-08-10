@@ -25,7 +25,7 @@
     "titleBar.activeBackground": "#141422",
     "editorGroupHeader.tabsBackground": "#0D1117",
     "activityBar.background": "#141422",
-    "sideBar.background": "#0b0522",
+    "sideBar.background": "#1D1D25",
     "minimap.background": "#141422",
     "tab.activeBackground": "#0B0522",
     "tab.inactiveBackground": "#0D1117",
@@ -39,8 +39,10 @@
   "editor.tokenColorCustomizations": {
     "comments": "#d4922f"
   },
-  "php.validate.executablePath": ""
+  "php.validate.executablePath": "",
+  "diffEditor.ignoreTrimWhitespace": false
 }
+
 
 
 /* References */
@@ -53,17 +55,20 @@ https://code.visualstudio.com/api/references/theme-color
 02. Auto Rename Tag
 03. Bracket Pair Colorizer
 04. Material Icon Theme
-05. Prettier - Code formatter
+05. Andromeda
 06. IntelliSense for CSS class names in HTML
-07. HTML CSS Support
-08. Material Icon Theme
-09. Prettier - Code formatter
-10. Live Server
-11. Live Sass Compiler
-12. Material Icon Theme
-13. Prettier - Code formatter
-14. Debugger for Chrome
-15. JavaScript (ES6) code snippets
+07. CSS Peek
+08. Prettier - Code formatter
+09. Beautify
+10. Bootstrap 5 Quick Snippets
+11. Prettier - Code formatter
+12. Image preview
+13. indent-rainbow
+14. Live Server Preview
+15. Live Server
+16. Code Spell Checker
+17. Debugger for Chrome
+18. JavaScript (ES6) code snippets
 
 
 /*================================
